@@ -15,6 +15,8 @@ main activity
 
 city weather details
 ![weatherdetailstwo](https://user-images.githubusercontent.com/46360191/113065516-55d60a00-91b9-11eb-9ffd-0a97c85df957.png)
+
+
 ![cityweatherdetailsone](https://user-images.githubusercontent.com/46360191/113065521-55d60a00-91b9-11eb-8a43-a8606015fc3d.png)
 
 
