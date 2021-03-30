@@ -1,8 +1,7 @@
-package com.example.weather_app3;
+package com.titowareglobal.weather_app3;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
-import android.location.LocationManager;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -16,9 +15,10 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
-import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
+
+
 
 import org.json.JSONArray;
 import org.json.JSONException;
